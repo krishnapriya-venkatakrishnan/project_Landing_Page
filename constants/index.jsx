@@ -79,7 +79,7 @@ export const faq = [
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "What happens when I'm out of storage?",
     answer:
       "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
   },
@@ -103,7 +103,7 @@ export const faq = [
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "I'm locked out of my account what do I do?",
     answer:
       "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
   },

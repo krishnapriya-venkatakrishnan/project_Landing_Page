@@ -10,7 +10,7 @@ const TestimonialItem = ({item, containerClassName}) => {
       <div className="flex items-center max-xl:-mr-8 pt-8">
         <div className="mr-4 size-20 shrink-0 rounded-half border-2 border-s2 p-1.5">
           <img src={item.avatarUrl} alt={item.name}
-          className="size-full object-cover" />
+          className="size-full object-cover rounded-full" />
         </div>
 
         <div>
