@@ -164,7 +164,7 @@ export const testimonials = [
     role: "Globalnomads",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "Xora's customer support is second to none! They're like my tech superheroes, always there when I need them.",
   },
   {
     id: "1",
@@ -377,7 +377,7 @@ export const Web = () => {
 export const links = [
   {
     id: "0",
-    title: "Ios",
+    title: "Mac",
     icon: <Ios />,
     url: "#",
   },
@@ -393,12 +393,12 @@ export const links = [
     icon: <Windows />,
     url: "#",
   },
-  {
-    id: "3",
-    title: "Web",
-    icon: <Web />,
-    url: "#",
-  },
+  // {
+  //   id: "3",
+  //   title: "Web",
+  //   icon: <Web />,
+  //   url: "#",
+  // },
 ];
 
 export const socials = [
