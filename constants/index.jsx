@@ -377,7 +377,7 @@ export const Web = () => {
 export const links = [
   {
     id: "0",
-    title: "Mac",
+    title: "Ios",
     icon: <Ios />,
     url: "#",
   },

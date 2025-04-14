@@ -6,7 +6,7 @@ import clsx from "clsx"
 
 const Download = () => {
 
-  const [activeLink, setActiveLink] = useState("Mac");
+  const [activeLink, setActiveLink] = useState("Ios");
 
   return (
     <section>
@@ -41,7 +41,7 @@ const Download = () => {
             <div className="mb-10 max-md:hidden ">
               <div className="download_preview-before download_preview-after rounded-40 relative w-full border-2 border-s5 p-6">
                 <div className="relative rounded-3xl bg-s1 px-6 pb-6 pt-14">
-                  {activeLink === "Mac" && ( <><span className="download_preview-dot left-6 bg-red-500" />
+                  {activeLink === "Ios" && ( <><span className="download_preview-dot left-6 bg-red-500" />
                   <span className="download_preview-dot left-11 bg-yellow-500" />
                   <span className="download_preview-dot left-16 bg-green-500" /></>)}
 
