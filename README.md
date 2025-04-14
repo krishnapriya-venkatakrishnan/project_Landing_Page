@@ -173,3 +173,11 @@ This is a modular, scroll-based landing page built with **React**, **TailwindCSS
 - Clicking each icon opens a dummy **preview version**
 
 ---
+
+## 🌐 Vercel Deployment
+
+You can view the live project here:
+
+🔗 [**Live Demo on Vercel**](https://project-landing-page-one.vercel.app/)
+
+---
